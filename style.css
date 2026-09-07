@@ -3,11 +3,10 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  height: 600%;
   
 }
 
 pre {
   font-weight: bold;
-  font-size: 200px;
+  font-size: 50px;
 }
